@@ -32,7 +32,7 @@ def main() -> None:
     """Run bot."""
     # Create the Updater and pass it your bot's token.
 
-    updater = Updater("1815718106:AAHTXO7UP9ju7XLUoZ1P4NXe3imDN1pG3cU")
+    updater = Updater("SUCK_MY_DICK")
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
