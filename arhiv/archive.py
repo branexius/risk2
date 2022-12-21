@@ -23,7 +23,7 @@ konec = int(datetime.strptime(end_date, "%d/%m/%Y").timestamp())
 
 ticker0 = "bitcoin"
 vs = "usd"
-API_KEY = '1sTj17l7Y0lZtMod7qtznlbmbyX'
+API_KEY = 'sjdnfkaljsdnflkjdnsfjklns'
 
 
 def glassnode_price():
