@@ -7,7 +7,7 @@ import telegram
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
-bot = telegram.Bot("1815718106:AAHTXO7UP9ju7XLUoZ1P4NXe3imDN1pG3cU")
+bot = telegram.Bot("SUCK_MY_DICK")
 # Enable logging
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
