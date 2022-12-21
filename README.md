@@ -1,4 +1,4 @@
-# Risk23 AKA Grande minus chart
+# Risk2 AKA Grande minus chart
 
 - risk_learn_v2_numpy_clean = Tale mislim da je zadnja stable. izracun in iteracije
 - risk-plot = plotter. Notri vpises spemenljivke ki si jih dobil iz risk-learn in ti izrise graf v stilu Cowencka.
