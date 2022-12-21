@@ -7,4 +7,5 @@
 - ostale stvari so samo poskusni filei
  
 Risk-learn sem poskusal pretvorit v cython zaradi optimizacije, ker pandas je drek za mnozicne iteracije (millions upon billions). Delno sem ga uspel pretvorit v numpy  but to no actual performance increase (verjetno nisem nic spremenil kar ima dejansiki efekt...lack of knowledge)
+
 Se en TODO je bil da poskusim z izracuni na vec jedrih procesorja...dropped because fuck you that's why
